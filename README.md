@@ -1,0 +1,2 @@
+# recipe website
+Practice HTML knowledge acquired from the Foundations Course in theodinproject.com. The website will include a main indx page which will have links to a few recipes. It will not contain any CSS as that is for another project. 
